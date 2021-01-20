@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704117062195",
+    "firebase_url": "https://knowyourfleetfirebase.firebaseio.com",
+    "project_id": "knowyourfleetfirebase",
+    "storage_bucket": "knowyourfleetfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704117062195:android:83eed6f0d127815c694146",
+        "android_client_info": {
+          "package_name": "com.mustardtec.yourfleet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704117062195-6aqcph5a0ibrf49dsvkh9oipeemgtugi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAafMt4miniq2aTOe7TJkzOk8qLv5sNVx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704117062195-6aqcph5a0ibrf49dsvkh9oipeemgtugi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704117062195-b7fmdcitjrpckclesrbos6l4v2ir45ff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mustard.knowyourfleet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

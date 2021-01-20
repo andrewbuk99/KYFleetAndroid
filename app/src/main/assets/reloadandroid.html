@@ -1,0 +1,31 @@
+﻿+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="height=device-height,width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="HandheldFriendly" content="True">
+    <title>YourCar Reload</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <script type="text/javascript">
+        function reload() {
+            try {
+
+                if (typeof androidOnline !== "undefined") {
+                        isOnline = androidOnline.restartload();
+                }
+
+            }
+            catch (err) { }
+        }
+    </script>
+</head>
+<body style="background-color:#1e2229;font-family:Arial;">
+    <div style="float:left;position:absolute;top:25vh;width:100%;text-align:center;">
+        <p style="color:white;padding:0 11% 1% 11%;line-height:1.2rem;font-size:0.9rem;">We had a problem contacting our servers. You might be offline, or have a unreliable internet connection.</p>
+        <img src="logo.png" alt="loading" />
+        <br /><br />
+        <div onclick="reload();" style="display:inline-block;background-color:#21afdf;border:none;color:white;padding:0.3em 0.6em 0.3em 0.6em;cursor:pointer;border-radius: 0.25em;-webkit-border-radius:  0.25em;-moz-border-radius: 0.25em;margin-right:2%;text-decoration:none;">Reload</div>    
+    </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KnowYourFleet</string>
+    <string name="maintenanceUrl_debug">http://192.168.1.199:55990/v4/maintenance.html</string>
+    <string name="maintenanceUrl">https://maintenance.know-yourfleet.co.uk/v6/maintenance.html</string>
+    <!--<string name="mainDomain_debug">http://192.168.1.201:59997/</string>-->
+    <string name="mainDomain_debug">https://staging.know-yourfleet.co.uk/</string>
+
+    <string name="mainDomain">https://know-yourfleet.co.uk/</string>
+    <!--<string name="mainDomain">https://staging.know-yourcar.co.uk/</string>-->
+    <string name="facebook_app_id">611453062821023</string>
+    <string name="fb_login_protocol_scheme">fb611453062821023</string>
+    <string name="adMobID">ca-app-pub-3311544607405195~6785280379</string>
+    <string name="adMobVideoID">ca-app-pub-3311544607405195/3972302820</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="asset_statements">
+  [{
+    \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+    \"target\": {
+      \"namespace\": \"web\",
+      \"site\": \"https://*.know-yourfleet.co.uk\"
+    }
+  }]
+</string>
+</resources>

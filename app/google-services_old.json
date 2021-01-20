@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "950474203314",
+    "firebase_url": "https://yourcar-87f60.firebaseio.com",
+    "project_id": "yourcar-87f60",
+    "storage_bucket": "yourcar-87f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950474203314:android:54d78e876c102517",
+        "android_client_info": {
+          "package_name": "com.mustardtec.yourcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950474203314-c0246c6kd92pm6qfv1g2q8st8p2k9qn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mustardtec.yourcar",
+            "certificate_hash": "2c581a33c76db3176abfe5c25898440754f9f01e"
+          }
+        },
+        {
+          "client_id": "950474203314-ll3k51gqhdstdvr9aqtgmp8f2h0rdt6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfIWFb9jEPJOS6j5WgYwPC0Qpb3ToR5_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950474203314-ll3k51gqhdstdvr9aqtgmp8f2h0rdt6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

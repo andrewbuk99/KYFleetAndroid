@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.google.ads.mediation:unity-2.1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unity-2.1.1.0.aar/c1f7f0a9d15a45abcadbf9e80502bff3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unity-2.1.1.0.aar/c1f7f0a9d15a45abcadbf9e80502bff3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/unity/2.1.1.0/4f442cd3dd89673fe34ed190f63a5809fddd5ae0/unity-2.1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
